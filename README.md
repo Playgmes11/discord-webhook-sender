@@ -29,5 +29,5 @@ __If you want to sent your message 1 time type 2 and your message will sent 1 ti
 
 <br>
 
-__6. Enjoy!__
+__7. Enjoy!__
 <p align="center"><img width="800" src="https://github.com/Playgmes11/discord-webhook-sender/blob/main/images/Screenshot%202024-05-27%20190426.png?raw=true"></p>
